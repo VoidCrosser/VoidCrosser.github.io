@@ -1,0 +1,3 @@
+#hexo robots.txt
+Sitemap: http://blog.voidhouse.xyz/sitemap.xml
+Sitemap: http://blog.voidhouse.xyz/baidusitemap.xml
