@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2bff17;
+  background: #713dfe;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2936,7 +2936,7 @@ img#github-emoji {
   box-shadow: none;
 }
 .post-body a {
-  color: #5073b8;
+  color: #ccc;
   border-bottom: none;
   text-decoration: underline;
 }
